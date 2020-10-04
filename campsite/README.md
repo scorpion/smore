@@ -1,4 +1,4 @@
-# Campsite
+# 🪓 Campsite
 
 This location serves as a showcase and introductions into various parts of technology stacks.
 
